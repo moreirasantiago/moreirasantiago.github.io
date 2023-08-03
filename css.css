@@ -1,0 +1,107 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url(imgs/coolHue-F6CEEC-D939CD.png);  
+    height: 550px;  
+    display: flex; 
+    justify-content: start;  
+    align-items: start;
+}
+.pj{
+    margin-top: 10%;
+    margin-left: 40%;
+}
+.pj2{
+    width: 200px;
+    align-items: center;
+}
+#cosito{
+    margin-top: 90px;
+    margin-left: 30px;
+    width: 400px;
+}
+
+.soy{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contactame{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secundario p{
+    display: flex;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.principal{ 
+    width: 70%;
+    display: flex;
+    justify-content: center;   
+    text-align: center;
+}
+.secundario{
+    padding: 4px;
+    margin-left: 80px;
+    padding-top: 10px;
+    border-radius: 47px;
+}
+.terciario{
+    margin-top: 100px;
+    margin-left: 300px;
+    display: flex;
+}
+.contactar{
+    margin-top: 250px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#hello, #im, #nom{
+    margin-left:220%;
+    color: rgb(73, 30, 59);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75px;
+} 
+.presentacion{
+    margin-top: 10%;
+} 
+#s { 
+    font-size: 40px;
+    border-radius: 7px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#s:hover {
+    background-color: #dd91d2;
+    color: rgb(111, 0, 155);
+}
+#s:link{
+    text-decoration: none;
+}
+#s:visited {
+    text-decoration: none;
+    color: rgb(111, 0, 155);
+}
+#nom{
+    letter-spacing: 3px;
+    color: rgb(111, 0, 155);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#nom:hover {
+    color: rgb(111, 0, 155);
+}
+#nom:visited {
+    color: rgb(111, 0, 155);
+}
+
+.desv:hover {
+    opacity: 0.07;
+    -webkit-transition: opacity 500ms;
+    -moz-transition: opacity 500ms;
+    -o-transition: opacity 500ms;
+    -ms-transition: opacity 500ms;
+    transition: opacity 500ms;
+}
